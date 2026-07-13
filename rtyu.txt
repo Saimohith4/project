@@ -1,3 +1,1 @@
-class Employee(models.Model):
-        empid = models.intgerfeild()
-        empname = models.charfeilds()
+
