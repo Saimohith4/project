@@ -1,0 +1,3 @@
+class student(models.Model):
+	stuid = models.intgerfeild()
+	stuname = models.charfeild(max_length=20)
