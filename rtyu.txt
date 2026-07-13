@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 class student(models.Model):
 	stuid = models.intgerfeild()
 	stuname = models.charfeild(max_length=20)
@@ -7,3 +8,6 @@ class Employee(models.Model):
         empid = models.intgerfeild()
         empname = models.charfeilds()
 >>>>>>> 7b4e496945b503df73dde348c3313d4676f7932e
+=======
+
+>>>>>>> 0e52422eb11f9844e71336413050caf18c8dd90b
